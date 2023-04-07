@@ -1,2 +1,2 @@
-# Little-lemon
-Created with Vivekananda Reddy M
+# Little-lemon - META capstone developer project
+Created by Vivekananda Reddy M
